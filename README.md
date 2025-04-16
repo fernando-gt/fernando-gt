@@ -41,20 +41,11 @@
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <!-- Gráfico de contribuições -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernando-gt&theme=github-compact&area=true&hide_border=true&custom_title=Gráfico de Atividades Recentes" height="250" />
-
-  <!-- Dias consecutivos de contribuição -->
+  
+  <!-- Status de contribuição (dias consecutivos) -->
   <img src="https://streak-stats.demolab.com?user=fernando-gt&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" height="180" />
 
-  <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fernando-gt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Estatísticas Gerais" height="180" />
-
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-gt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Principais Linguagens" height="180" />
-</div>
-
----
+<div/>
 
 ## 📜 Certificados
 
