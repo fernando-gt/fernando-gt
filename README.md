@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Fernando GT</h1>
+<h1 align="center">👋 Olá, eu sou</h1>
 <h3 align="center">💻 Desenvolvedor Full Stack | 🚀 Soluções Inovadoras | 🏆 Especialista em Experiência do Usuário</h3>
 
 <div align="center">
