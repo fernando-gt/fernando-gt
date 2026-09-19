@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fernando G. T. | Portfolio</title>
+
     <style>
       :root {
         --bg: #07111f;
